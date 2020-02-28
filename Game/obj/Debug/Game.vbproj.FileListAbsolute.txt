@@ -9,3 +9,14 @@ C:\Users\acer\Desktop\game\Game\Game\bin\Debug\Game.xml
 C:\Users\acer\Desktop\game\Game\Game\obj\Debug\Game.exe
 C:\Users\acer\Desktop\game\Game\Game\obj\Debug\Game.xml
 C:\Users\acer\Desktop\game\Game\Game\obj\Debug\Game.pdb
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\bin\Debug\Game.exe.config
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\bin\Debug\Game.exe
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\bin\Debug\Game.pdb
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\bin\Debug\Game.xml
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.vbprojAssemblyReference.cache
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.Form1.resources
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.Resources.resources
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.vbproj.GenerateResource.cache
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.exe
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.xml
+C:\Users\Jopolo Camcam\Desktop\DodgeGame\Game\obj\Debug\Game.pdb

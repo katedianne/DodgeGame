@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,16 +20,13 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container()
         Me.picplayer = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.obs1 = New System.Windows.Forms.PictureBox()
         Me.obs2 = New System.Windows.Forms.PictureBox()
         Me.obs3 = New System.Windows.Forms.PictureBox()
-        Me.timerright = New System.Windows.Forms.Timer(Me.components)
-        Me.timerleft = New System.Windows.Forms.Timer(Me.components)
         CType(Me.picplayer, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.obs1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -40,7 +37,7 @@ Partial Class Form1
         'picplayer
         '
         Me.picplayer.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.picplayer.Location = New System.Drawing.Point(216, 143)
+        Me.picplayer.Location = New System.Drawing.Point(41, 143)
         Me.picplayer.Name = "picplayer"
         Me.picplayer.Size = New System.Drawing.Size(63, 102)
         Me.picplayer.TabIndex = 0
@@ -58,7 +55,7 @@ Partial Class Form1
         'obs1
         '
         Me.obs1.BackColor = System.Drawing.Color.Red
-        Me.obs1.Location = New System.Drawing.Point(1426, 160)
+        Me.obs1.Location = New System.Drawing.Point(211, 143)
         Me.obs1.Name = "obs1"
         Me.obs1.Size = New System.Drawing.Size(63, 102)
         Me.obs1.TabIndex = 2
@@ -67,7 +64,7 @@ Partial Class Form1
         'obs2
         '
         Me.obs2.BackColor = System.Drawing.Color.Red
-        Me.obs2.Location = New System.Drawing.Point(1658, 160)
+        Me.obs2.Location = New System.Drawing.Point(342, 143)
         Me.obs2.Name = "obs2"
         Me.obs2.Size = New System.Drawing.Size(63, 102)
         Me.obs2.TabIndex = 3
@@ -76,19 +73,11 @@ Partial Class Form1
         'obs3
         '
         Me.obs3.BackColor = System.Drawing.Color.Red
-        Me.obs3.Location = New System.Drawing.Point(1887, 160)
+        Me.obs3.Location = New System.Drawing.Point(455, 143)
         Me.obs3.Name = "obs3"
         Me.obs3.Size = New System.Drawing.Size(63, 102)
         Me.obs3.TabIndex = 4
         Me.obs3.TabStop = False
-        '
-        'timerright
-        '
-        Me.timerright.Interval = 10
-        '
-        'timerleft
-        '
-        Me.timerleft.Interval = 10
         '
         'Form1
         '
@@ -117,6 +106,4 @@ Partial Class Form1
     Friend WithEvents obs1 As PictureBox
     Friend WithEvents obs2 As PictureBox
     Friend WithEvents obs3 As PictureBox
-    Friend WithEvents timerright As Timer
-    Friend WithEvents timerleft As Timer
 End Class
